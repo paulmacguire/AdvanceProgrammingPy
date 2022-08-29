@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="imagen_intergalactica">
+    <file>../../Sprites/Aliens/Alien3.png</file>
+    <file>../../Sprites/Fondos/Galaxia.png</file>
+  </qresource>
+</RCC>

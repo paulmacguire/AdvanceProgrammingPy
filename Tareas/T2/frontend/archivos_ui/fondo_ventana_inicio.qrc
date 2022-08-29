@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="fondo_inicio">
+    <file>Sprites/Logo/Logo.png</file>
+  </qresource>
+</RCC>

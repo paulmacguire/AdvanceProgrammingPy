@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="imagen_jupiter">
+    <file>../../Sprites/Aliens/Alien2.png</file>
+    <file>../../Sprites/Fondos/Jupiter.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagen_perro_inicio">
+    <file>../../Sprites/Terminator-Dog/Dog1.png</file>
+  </qresource>
+</RCC>

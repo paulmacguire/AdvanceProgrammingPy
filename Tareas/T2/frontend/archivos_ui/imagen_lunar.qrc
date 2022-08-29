@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="imagen_lunar">
+    <file>../../Sprites/Aliens/Alien1.png</file>
+    <file>../../Sprites/Fondos/Luna.png</file>
+  </qresource>
+</RCC>
